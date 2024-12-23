@@ -20,7 +20,7 @@ export default function HomeHeroSection() {
         </div>
 
         {/* Right Section - Image */}
-        <div className="relative w-[400px] md:w-1/2 lg:w-[100%] h-auto md:h-[500px] lg:h-[900px] flex items-center justify-center">
+        <div className="relative w-[300px] md:w-1/2 lg:w-[100%] h-auto md:h-[500px] lg:h-[900px] flex items-center justify-center">
           <Image
             src="/image/rocket-image.png" // Replace with your image path
             alt="Rocket Single Seater"
